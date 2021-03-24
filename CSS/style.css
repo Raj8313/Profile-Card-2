@@ -1,0 +1,46 @@
+.bgColor {
+  background-color: #3476f6;
+}
+
+.profileImage {
+  height: 90px;
+  width: 90px;
+  object-fit: cover;
+  border-radius: 45px;
+  border: 2px solid #edeeee;
+}
+
+.menuItems {
+  background: #ffff;
+  margin-top: 120px !important;
+}
+
+.cardBorder {
+  border-radius: 1.25rem !important;
+  margin-bottom: -100px;
+}
+
+.profileText {
+  text-align: center;
+}
+
+.iconColor {
+  color: #3375f5;
+}
+
+.menuItem {
+  height: 48px;
+  width: 48px;
+  background-color: #3375f5;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffff;
+  border-radius: 2rem;
+  margin: 0.5rem;
+}
+
+.anchorText {
+  text-decoration: none;
+  color: #0e0d0d;
+}
